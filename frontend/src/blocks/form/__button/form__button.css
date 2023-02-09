@@ -1,0 +1,24 @@
+.form__button {
+  font-family: 'Inter', Arial, Helvetica, sans-serif;
+  display: flex;
+  position: relative;
+  width: 238px;
+  height: 46px;
+  line-height: 16.94px;
+  font-size: 14px;
+  font-weight: 400;
+  border-radius: 2px;
+  background-color: #FFFFFF;
+  color: #000000;
+}
+
+@media screen and (min-width: 435px) {
+  .form__button {
+    width: 358px;
+    height: 50px;
+    line-height: 21.78px;
+    font-size: 18px;
+  }
+}
+
+

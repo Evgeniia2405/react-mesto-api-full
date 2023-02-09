@@ -1,0 +1,7 @@
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  margin-top: calc(12.5% - 70px);
+}

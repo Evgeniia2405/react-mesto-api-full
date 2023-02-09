@@ -1,0 +1,19 @@
+.form__input {
+
+  text-align: start;
+
+  font-family: "Inter", Arial, Helvetica, sans-serif;
+  line-height: 16.94px;
+  font-size: 14px;
+  font-weight: 400;
+  border: 0;
+  border-radius: 0;
+  box-sizing: border-box;
+  outline: none;
+}
+
+@media screen and (min-width: 500px) {
+  .form__input {
+    min-width: 358px;
+  }
+}

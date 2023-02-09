@@ -1,0 +1,10 @@
+.register__signin {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Inter', Arial, Helvetica, sans-serif;
+  color: #FFFFFF;
+  line-height: 16.94px;
+  font-size: 14px;
+  font-weight: 400;
+}

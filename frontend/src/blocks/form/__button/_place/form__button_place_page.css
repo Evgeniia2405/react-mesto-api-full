@@ -1,0 +1,15 @@
+.form__button_place_page {
+  background-color: #FFFFFF;
+  color: #000000;
+  margin: 130px auto 0px auto;
+}
+
+.form__button_place_page:hover {
+  background-color: rgba(255, 255, 255, 0.85);
+}
+
+@media screen and (min-width: 435px) {
+  .form__button_place_page {
+    margin: 180px auto 0 auto;
+  }
+}

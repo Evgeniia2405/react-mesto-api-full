@@ -1,0 +1,15 @@
+.form__title {
+  width: calc(80% + 12.4px);
+  font-family: 'Inter', Arial, Helvetica, sans-serif;
+  line-height: 21.78px;
+  font-size: 18px;
+  font-weight: 900;
+}
+
+@media screen and (min-width: 432px) {
+  .form__title {
+    min-width: 358px;
+    line-height: 29.05px;
+    font-size: 24px;
+  }
+}

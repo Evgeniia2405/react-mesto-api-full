@@ -1,0 +1,11 @@
+.navbar__button {
+  background-color: black;
+  border: none;
+  line-height: 22px;
+  font-size: 18px;
+  font-weight: 400;
+  color: #A9A9A9;
+  margin-left: 15px;
+  text-align: right;
+  padding: 0
+}

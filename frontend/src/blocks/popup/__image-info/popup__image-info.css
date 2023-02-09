@@ -1,0 +1,13 @@
+.popup__image-info {
+  display: block;
+  /* width: 20%;
+  height: 20%; */
+  max-height: 75vh;
+  object-fit: cover;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 32px auto;
+  object-position: center;
+
+}

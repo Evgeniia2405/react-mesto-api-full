@@ -1,0 +1,9 @@
+.register__login-link {
+  text-decoration: none;
+  cursor: pointer;
+  color: #FFFFFF;
+  line-height: 16.94px;
+  font-size: 14px;
+  font-weight: 400;
+  margin-left: 5px;
+}

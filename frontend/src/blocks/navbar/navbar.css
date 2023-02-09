@@ -1,0 +1,19 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  border-bottom: 1px solid rgba(84, 84, 84, 0.7);
+}
+
+@media screen and (min-width: 768px) {
+.navbar {
+  max-width: 90%;
+  margin: 45px auto 0;
+}
+}
+
+@media screen and (min-width: 978px) {
+.navbar {
+  max-width: 880px;
+}
+}

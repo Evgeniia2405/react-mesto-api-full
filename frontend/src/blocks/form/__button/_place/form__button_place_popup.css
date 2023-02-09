@@ -1,0 +1,15 @@
+.form__button_place_popup {
+  background-color: black;
+  color: #fff;
+  margin: 23px auto 25px auto;
+}
+
+.form__button_place_popup:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+@media screen and (min-width: 435px) {
+  .form__button_place_popup {
+    margin: 6px auto 37px auto;
+  }
+}
