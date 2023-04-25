@@ -13,3 +13,4 @@
 - IP 51.250.89.250
 - Frontend [https://domainname.evgenia2405.nomoredomainsclub.ru/]
 - Backend [https://api.mesto.evgenia2405.nomoredomainsclub.ru/]
+- ссылка на пул реквест [https://github.com/Evgeniia2405/movies-explorer-frontend/pulls]
